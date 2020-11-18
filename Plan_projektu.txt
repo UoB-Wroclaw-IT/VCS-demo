@@ -1,4 +1,4 @@
-1. Zaprosić Annę i Andrzeja do zespołu.
-2. Dodać funkcję płatności online.
-3. Przetestować funkcję płatności online.
-4. Wdrożyć funkcję płatności online.
+1. Zaprosić Bożenę i Mariana do zespołu.
+2. Dodać funkcję galerii online.
+3. Przetestować funkcję galerii online.
+4. Wdrożyć funkcję galerii online.
