@@ -1,0 +1,4 @@
+1. Zaprosić Annę i Andrzeja do zespołu.
+2. Dodać funkcję płatności online.
+3. Przetestować funkcję płatności online.
+4. Wdrożyć funkcję płatności online.
